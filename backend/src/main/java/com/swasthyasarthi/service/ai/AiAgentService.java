@@ -1,6 +1,7 @@
 package com.swasthyasarthi.service.ai;
 
 import com.swasthyasarthi.model.*;
+import com.swasthyasarthi.service.NotificationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
