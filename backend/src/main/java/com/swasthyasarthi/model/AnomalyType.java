@@ -1,0 +1,14 @@
+package com.swasthyasarthi.model;
+
+public enum AnomalyType {
+    BLOOD_PRESSURE_HIGH,
+    BLOOD_PRESSURE_LOW,
+    GLUCOSE_HIGH,
+    GLUCOSE_LOW,
+    HEART_RATE_ABNORMAL,
+    WEIGHT_CHANGE,
+    MISSING_MEDICATION,
+    SYMPTOM_REPORTED,
+    TREND_ANOMALY,
+    DATA_INCONSISTENCY
+}
